@@ -32,9 +32,11 @@
 <br><br>
 
 ## ⚙️ &nbsp;GitHub Analytics
-<section>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=micael-m&show_icons=true&theme=vision-friendly-dark" alt="micael-m's stats"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=micael-m&layout=compact&theme=vision-friendly-dark" alt="micael-m's most languages"/>
-<section />
+
+<div>
+  <a href="https://github.com/micael-m">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=micael-m&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=micael-m&layout=compact&langs_count=7&theme=dark"/>
+</div>
 
 <br><br>
