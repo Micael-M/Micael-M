@@ -14,7 +14,7 @@
 
 - 🌎 Objetivos **Liberdade Geográfica, Aprendizagem Colaborativa**
 
-###💬 Meu email: micaelmaicon@hotmail.com
+💬 Meu email: micaelmaicon@hotmail.com
 
 <br><br>
 
