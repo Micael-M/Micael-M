@@ -4,7 +4,7 @@
 
 <p align="center"> Seja Bem-Vindo(a) <img src="https://komarev.com/ghpvc/?username=micael-m&color=green" alt="Profile views" /></p>
 
-- 👨‍💻 Estudante de desenvolvimento web Full-Stack na [Trybe](https://www.betrybe.com/)
+- 👨‍💻 Desenvolvimento web Full-Stack na [Trybe](https://www.betrybe.com/)
 
 - 🔭 Aprendendo sobre Back-End: **Camada de serviços e Arquitetura Rest/Restful**
 
