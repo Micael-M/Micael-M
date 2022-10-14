@@ -6,7 +6,7 @@
 
 - 👨‍💻 Desenvolvimento web Full-Stack na [Trybe](https://www.betrybe.com/)
 
-- 🔭 Aprendendo sobre Back-End e DevOps: ** Kubernets; GCloud; Arquitetura de aplicações** **CI/CD. TypeScript, POO, Python**
+- 🔭 Aprendendo sobre Back-End e DevOps: **Kubernets; GCloud; Arquitetura de aplicações e CI/CD. TypeScript, POO, Python**
 
 - 💬 Pergunte-me sobre **JavaScript, HTML, CSS, SQL, Node.JS**
 
